@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @AnonymousAbo
-- 👀 I’m interested in Ethical Hacking
+-  Hi, I’m @AnonymousAbo
+-  I’m interested in Ethical Hacking
+-  I upload cracked installers for programs
+-  My intention is Educational Purposes Only and to save peoples money
 
 
 <!---
